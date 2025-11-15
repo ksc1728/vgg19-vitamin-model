@@ -1,7 +1,6 @@
-Flask==3.0.2
-gunicorn==21.2.0
-tensorflow==2.15.0
-keras==2.15.0
-Pillow==10.0.0
-numpy==1.26.4
-h5py==3.10.0
+Flask
+gunicorn
+tensorflow-cpu
+Pillow
+numpy
+h5py
